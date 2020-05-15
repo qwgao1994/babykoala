@@ -1,22 +1,104 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://babykoala.github.io</id>
-    <title>babykoala</title>
-    <updated>2020-05-15T16:19:49.528Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://babykoala.github.io"/>
-    <link rel="self" href="https://babykoala.github.io/atom.xml"/>
-    <subtitle>fine,thanks,and you </subtitle>
-    <logo>https://babykoala.github.io/images/avatar.png</logo>
-    <icon>https://babykoala.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, babykoala</rights>
-    <entry>
-        <title type="html"><![CDATA[谈谈B端产品设计]]></title>
-        <id>https://babykoala.github.io/GmGqB7V8F/</id>
-        <link href="https://babykoala.github.io/GmGqB7V8F/">
-        </link>
-        <updated>2020-05-15T16:18:33.000Z</updated>
-        <content type="html"><![CDATA[<p>之前写过一篇B端产品总结，后来觉得有些业务不适合公布，因此在其基础上做了调整。</p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>谈谈B端产品设计 | babykoala</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://babykoala.github.io/favicon.ico?v=1589559580656">
+<link rel="stylesheet" href="https://babykoala.github.io/styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="之前写过一篇B端产品总结，后来觉得有些业务不适合公布，因此在其基础上做了调整。
+为什么想要转行去做B端
+我个人履历实际上入行以来换过3家公司。对此虽然是劣势，但是我认为在刚入行对自己职业生涯规划比较欠缺，所以两三年内跳槽可能属于普遍现象。在..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://babykoala.github.io">
+        <img src="https://babykoala.github.io/images/avatar.png?v=1589559580656" class="site-logo">
+        <h1 class="site-title">babykoala</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于我
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+          <a class="social-link" href="weibo.com/cola1106" target="_blank">
+            <i class="fab fa-weibo"></i>
+          </a>
+        
+      
+        
+          <a class="social-link" href="zhihu.com/cola1106" target="_blank">
+            <i class="fab fa-zhihu"></i>
+          </a>
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      fine,thanks,and you 
+    </div>
+    <div class="site-footer">
+       | <a class="rss" href="https://babykoala.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">谈谈B端产品设计</h2>
+            <div class="post-date">2020-05-16</div>
+            
+            <div class="post-content" v-pre>
+              <p>之前写过一篇B端产品总结，后来觉得有些业务不适合公布，因此在其基础上做了调整。</p>
 <p>为什么想要转行去做B端<br>
 我个人履历实际上入行以来换过3家公司。对此虽然是劣势，但是我认为在刚入行对自己职业生涯规划比较欠缺，所以两三年内跳槽可能属于普遍现象。在积累了一定行业经验之后，对整个行业有了认知，此时就该对自己有明确的定位和发展方向。<br>
 我选择的是to B领域。<br>
@@ -124,38 +206,46 @@ image.png</p>
 测试这里要具体看团队的设置，如果团队中没有测试，那么测试的工作依然由我们产品部门来做。<br>
 一般的，我们会进行3轮左右的测试，第一轮测试后会产生很多的问题，提给开发后他们改一轮。第二次是我们回验一轮，他们再进行修改。第三轮就是到后面所有的卡已经完成，我们在测试环境及线上环境都跑一遍，如果还有问题，开发再进行集中修复。</p>
 <p>本文是我的B端项目进行的思路总结，希望能够给大家带来一些帮助，可能会有些不准确的地方，欢迎交流。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://babykoala.github.io/hello-gridea/</id>
-        <link href="https://babykoala.github.io/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
-]]></content>
-    </entry>
-</feed>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://babykoala.github.io/hello-gridea/">
+                  <h3 class="post-title">
+                    Hello Gridea
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>
