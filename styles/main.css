@@ -758,3 +758,16 @@ a {
   font-size: 16px;
   margin: 4px 8px;
 }
+
+      .post-item .left .post-abstract {
+    line-height: 24px;
+    font-size: 14px;
+}
+.post-detail .post-content p {
+    line-height: 1.725;
+    margin-bottom: 24px;
+    font-size: 14px;
+    color: #495057;
+}
+
+    
