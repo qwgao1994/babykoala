@@ -759,6 +759,10 @@ a {
   margin: 4px 8px;
 }
 
+      .post-item .right .feature-container {
+        border-radius: 8px;
+      }
+    
       .post-item .left .post-abstract {
     line-height: 24px;
     font-size: 14px;
