@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qwgao1994.github.io/babykoala</id>
     <title>babykoala</title>
-    <updated>2020-05-25T14:44:32.376Z</updated>
+    <updated>2020-05-25T14:47:05.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qwgao1994.github.io/babykoala"/>
     <link rel="self" href="https://qwgao1994.github.io/babykoala/atom.xml"/>
     <logo>https://qwgao1994.github.io/babykoala/images/avatar.png</logo>
     <icon>https://qwgao1994.github.io/babykoala/favicon.ico</icon>
     <rights>All rights reserved 2020, babykoala</rights>
-    <entry>
-        <title type="html"><![CDATA[haha]]></title>
-        <id>https://qwgao1994.github.io/babykoala/hahha/</id>
-        <link href="https://qwgao1994.github.io/babykoala/hahha/">
-        </link>
-        <updated>2020-05-25T14:44:08.000Z</updated>
-        <content type="html"><![CDATA[<p>sss</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[闲鱼鱼塘社区互动设计提案]]></title>
         <id>https://qwgao1994.github.io/babykoala/xianyu/</id>
