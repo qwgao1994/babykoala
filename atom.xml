@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qwgao1994.github.io/babykoala</id>
     <title>babykoala</title>
-    <updated>2020-05-30T08:02:08.768Z</updated>
+    <updated>2020-05-30T08:02:48.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qwgao1994.github.io/babykoala"/>
     <link rel="self" href="https://qwgao1994.github.io/babykoala/atom.xml"/>
@@ -143,9 +143,7 @@ B端重业务，我本身理科出身，之前做C端的用户体验方法论个
 美容师：产品能够查看顾客护理情况，查看预约护理时间，定期维护顾客关系，上传下达，实现办公自动化。<br>
 总部区域经理：能够对区域内员工进行管理<br>
 总部财务：进销存情况、与财务之间的往来可以在产品中看到<br>
-总部总经理：能够看到各门店的数据，可以查到门店内任何顾客信息<br>
-<br></br><br>
-<br></br></p>
+总部总经理：能够看到各门店的数据，可以查到门店内任何顾客信息</p>
 </blockquote>
 <h4>二、业务流程调研</h4>
 <p><strong>1.岗位角色用户画像</strong><br>
