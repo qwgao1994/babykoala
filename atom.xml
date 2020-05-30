@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qwgao1994.github.io/babykoala</id>
     <title>babykoala</title>
-    <updated>2020-05-30T07:45:12.979Z</updated>
+    <updated>2020-05-30T07:47:40.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qwgao1994.github.io/babykoala"/>
     <link rel="self" href="https://qwgao1994.github.io/babykoala/atom.xml"/>
@@ -15,10 +15,10 @@
         <link href="https://qwgao1994.github.io/babykoala/12/">
         </link>
         <updated>2020-05-30T01:25:50.000Z</updated>
-        <summary type="html"><![CDATA[<p>四月初的时候入职了黑帕云（hipacloud.com），黑帕云产品的目标用户是企业用户，是一个为他们提供可以自定义业务系统的无代码应用搭建平台。<br>
+        <summary type="html"><![CDATA[<p>四月初的时候入职了<a href="https://hipacloud.com/">黑帕云</a>，黑帕云产品的目标用户是企业用户，是一个为他们提供可以自定义业务系统的无代码应用搭建平台。<br>
 所以对于只有C端经历的我而言，几乎成了重新开始的历险。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>四月初的时候入职了黑帕云（hipacloud.com），黑帕云产品的目标用户是企业用户，是一个为他们提供可以自定义业务系统的无代码应用搭建平台。<br>
+        <content type="html"><![CDATA[<p>四月初的时候入职了<a href="https://hipacloud.com/">黑帕云</a>，黑帕云产品的目标用户是企业用户，是一个为他们提供可以自定义业务系统的无代码应用搭建平台。<br>
 所以对于只有C端经历的我而言，几乎成了重新开始的历险。</p>
 <!-- more -->
 <p>我们的老板米高（陈金洲）在这个领域有成功的产品经验，非常耐心地找我谈了几次，收获颇丰。（但同时很有压力…）</p>
@@ -26,9 +26,11 @@
 在分析需求时，C端产品只需要考虑用户需求和商业回报即可。当然一开始把主要玩法确定后，接下来的目的就是如何提升用户黏性、转化率；而B端产品在做需求分析时，不只要站在使用者的角度，因为决定付费的往往不是直接的产品使用者，而可能是业务主管甚至是企业主。</p>
 <p>比如有这样一个问题：<br>
 给roomis（教室门口的pad，用于显示教室名字、刷脸开锁、预约会议、查看课程）做排程（安排会议）的需求，为什么会数据不好或者说本身需求就有问题？<br>
-<em>这是米高给智园（WisdomGarden.com）产品经理做培训时的一个问题</em></p>
-<p><em>米高问：为什么会想要这么做？<br>
-智园pm：校方想要学生使用roomis排程，这样就能够知道教室的使用率。除此之外，智园也想要这个数据。</em></p>
+<em>这是米高给<a href="https://wisdomgarden/">智园</a>产品经理做培训时的一个问题</em></p>
+<blockquote>
+<p>米高问：为什么会想要这么做？<br>
+智园pm：校方想要学生使用roomis排程，这样就能够知道教室的使用率。除此之外，智园也想要这个数据。</p>
+</blockquote>
 <p>米高讲说这其实算是<strong>利己需求</strong>。即便是利己需求也要包装为对用户有利益的需求，如果用户不用那么对于买单者也达不到他的目的。</p>
 <p>同样的，在黑帕云也是。我只考虑了使用者的需求，尽量去满足他们，而不会主动去了解「买单者」（也就是业务主管或者企业主）的诉求。更多是在扮演「客户需求翻译机」的角色，这样就会导致在实际开发中，只满足了这一部分用户的需求，耗费了团队的研发成本，而这个需求并没有带来实际收益。<br>
 所以有时候执着客户的解决方案，看似问题都解决了，反而会离产品远了一些。<br>
