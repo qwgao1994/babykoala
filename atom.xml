@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qwgao1994.github.io/babykoala</id>
     <title>babykoala</title>
-    <updated>2020-05-30T07:56:23.510Z</updated>
+    <updated>2020-05-30T08:01:33.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qwgao1994.github.io/babykoala"/>
     <link rel="self" href="https://qwgao1994.github.io/babykoala/atom.xml"/>
@@ -68,14 +68,14 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[谈谈B端产品设计]]></title>
+        <title type="html"><![CDATA[企业信息化产品设计思路]]></title>
         <id>https://qwgao1994.github.io/babykoala/bussiness_production/</id>
         <link href="https://qwgao1994.github.io/babykoala/bussiness_production/">
         </link>
         <updated>2020-05-15T16:18:33.000Z</updated>
-        <summary type="html"><![CDATA[<p>之前写过一篇B端产品总结，后来觉得有些业务不适合公布，因此在其基础上做了调整。</p>
+        <summary type="html"><![CDATA[<p>之前在给一家企业做信息化产品，也是我走入B端的第一个产品。在此梳理下做B端产品的过程。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>之前写过一篇B端产品总结，后来觉得有些业务不适合公布，因此在其基础上做了调整。</p>
+        <content type="html"><![CDATA[<p>之前在给一家企业做信息化产品，也是我走入B端的第一个产品。在此梳理下做B端产品的过程。</p>
 <!-- more -->
 <br>
 <br>
