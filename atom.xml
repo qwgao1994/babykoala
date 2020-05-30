@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qwgao1994.github.io/babykoala</id>
     <title>babykoala</title>
-    <updated>2020-05-30T08:02:48.220Z</updated>
+    <updated>2020-05-30T08:03:36.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qwgao1994.github.io/babykoala"/>
     <link rel="self" href="https://qwgao1994.github.io/babykoala/atom.xml"/>
@@ -138,12 +138,12 @@ B端重业务，我本身理科出身，之前做C端的用户体验方法论个
 <p>梳理完成客户的组织架构及管理层级关系后，接下来需要对应去找部门负责人进行访谈，在这一阶段去了解其部门是负责哪些业务，业务之间存在哪些关系。部门负责人对于产品的愿景如何，他们期望解决自己部门什么样的问题。</p>
 <p>访谈了门店店长、门店经理、美容师后，获得的信息分别是：</p>
 <blockquote>
-<p>店长：可以通过产品了解门店经营状况，如财务收支、顾客数量、美容护理项目等。<br>
-经理：产品可以实现顾客预约、发布活动、查看顾客信息、会员营销跟踪维护等。<br>
-美容师：产品能够查看顾客护理情况，查看预约护理时间，定期维护顾客关系，上传下达，实现办公自动化。<br>
-总部区域经理：能够对区域内员工进行管理<br>
-总部财务：进销存情况、与财务之间的往来可以在产品中看到<br>
-总部总经理：能够看到各门店的数据，可以查到门店内任何顾客信息</p>
+<p><strong>店长</strong>：可以通过产品了解门店经营状况，如财务收支、顾客数量、美容护理项目等。<br>
+<strong>经理</strong>：产品可以实现顾客预约、发布活动、查看顾客信息、会员营销跟踪维护等。<br>
+<strong>美容师</strong>：产品能够查看顾客护理情况，查看预约护理时间，定期维护顾客关系，上传下达，实现办公自动化。<br>
+<strong>总部区域经理</strong>：能够对区域内员工进行管理<br>
+<strong>总部财务</strong>：进销存情况、与财务之间的往来可以在产品中看到<br>
+<strong>总部总经理</strong>：能够看到各门店的数据，可以查到门店内任何顾客信息</p>
 </blockquote>
 <h4>二、业务流程调研</h4>
 <p><strong>1.岗位角色用户画像</strong><br>
