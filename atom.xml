@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qwgao1994.github.io/babykoala</id>
     <title>babykoala</title>
-    <updated>2020-05-30T07:43:48.016Z</updated>
+    <updated>2020-05-30T07:45:12.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qwgao1994.github.io/babykoala"/>
     <link rel="self" href="https://qwgao1994.github.io/babykoala/atom.xml"/>
@@ -11,13 +11,17 @@
     <rights>All rights reserved 2020, babykoala</rights>
     <entry>
         <title type="html"><![CDATA[在做B端产品时，避免做客户的需求翻译机]]></title>
-        <id>https://qwgao1994.github.io/babykoala/f_4JdSq0U/</id>
-        <link href="https://qwgao1994.github.io/babykoala/f_4JdSq0U/">
+        <id>https://qwgao1994.github.io/babykoala/12/</id>
+        <link href="https://qwgao1994.github.io/babykoala/12/">
         </link>
         <updated>2020-05-30T01:25:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>四月初的时候入职了黑帕云（hipacloud.com），黑帕云产品的目标用户是企业用户，是一个为他们提供可以自定义业务系统的无代码应用搭建平台。<br>
+所以对于只有C端经历的我而言，几乎成了重新开始的历险。</p>
+]]></summary>
         <content type="html"><![CDATA[<p>四月初的时候入职了黑帕云（hipacloud.com），黑帕云产品的目标用户是企业用户，是一个为他们提供可以自定义业务系统的无代码应用搭建平台。<br>
-所以对于只有C端经历的我而言，几乎成了重新开始的历险。<br>
-我们的老板米高（陈金洲）在这个领域有成功的产品经验，非常耐心地找我谈了几次，收获颇丰。（但同时很有压力…）</p>
+所以对于只有C端经历的我而言，几乎成了重新开始的历险。</p>
+<!-- more -->
+<p>我们的老板米高（陈金洲）在这个领域有成功的产品经验，非常耐心地找我谈了几次，收获颇丰。（但同时很有压力…）</p>
 <p>首先是<strong>角度</strong>不同。<br>
 在分析需求时，C端产品只需要考虑用户需求和商业回报即可。当然一开始把主要玩法确定后，接下来的目的就是如何提升用户黏性、转化率；而B端产品在做需求分析时，不只要站在使用者的角度，因为决定付费的往往不是直接的产品使用者，而可能是业务主管甚至是企业主。</p>
 <p>比如有这样一个问题：<br>
@@ -34,7 +38,7 @@
 <p>另一方面，即使已经认为某个客户的需求是有价值的，选择去做，而需求分析做不够，会掉入另一个困境：因为没有深入理解客户的场景，而没有到洞察到真正的诉求，就会为了需求的合理性创造理想的场景。</p>
 <p>所以对于黑帕云，产品的核心是<strong>帮助企业提升效率</strong>，不只是满足某些场景下某些角色的需求。</p>
 <p>目前而言，对于产品经理要提升分析需求的能力不是短期通过看书就可以成长，这需要大量的商业思考、沉淀，然后去市场验证。</p>
-<p>我总结出的具体的方法是：理解商业目标、客户的诉求，然后思考为什么要做，这样做各个角色的考虑会是什么，再去想如何解决。<img src="https://qwgao1994.github.io/babykoala/post-images/1590824622273.jpeg" alt="" loading="lazy"></p>
+<p>我总结出的具体的方法是：理解商业目标、客户的诉求，然后思考为什么要做，这样做各个角色的考虑会是什么，再去想如何解决。</p>
 ]]></content>
     </entry>
     <entry>
